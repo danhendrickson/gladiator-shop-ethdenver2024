@@ -1,0 +1,45 @@
+.zero-x-modal {
+    --background: transparent;
+    .ion-page {
+        border: 4px solid #976b38ba;
+    }
+    ion-header {
+        --background-color: transparent;
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);
+    }
+    ion-toolbar {
+        --background: transparent;
+    }
+    ion-content {
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);
+    }
+    ion-footer {
+        --background-color: transparent;
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);    
+        padding: 0.5rem;
+    }
+}
+
+.zero-x-modal-coin {
+    @media screen and (min-width: 768px) and (min-height: 768px) {
+        --width: 400px !important;
+        --height: 400px !important;
+        --border-radius: 1rem;
+    }
+}
+
+.token-logo {
+    width: 20px;
+    height: 20px;
+    display: block;
+}
+
+.swap-amount {
+    font-size: 2.2rem;
+}

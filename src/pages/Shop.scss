@@ -1,0 +1,121 @@
+.ion-page-shop {
+
+    ion-content {
+        --background: transparent;
+        --overflow: hidden;
+    }
+    .gladiator-shop-container {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        z-index: 4;
+        background: rgb(18, 12, 6);
+        padding: 2.2rem;
+        padding-top: 150px;
+    
+        .shop-content {
+
+            position: relative;
+            max-width: 100%;
+            height: calc(100vh - 290px);
+            overflow: auto;
+            padding: 1.5rem;
+            background-color: rgb(39 31 21 / 0%);
+            width: 100%;
+
+            &::-webkit-scrollbar {
+                width: 10px;
+            }
+            
+            &::-webkit-scrollbar-track {
+                background: transparent; 
+            }
+            
+            &::-webkit-scrollbar-thumb {
+                background: #584931; 
+                border-radius: 0px;
+            }
+            
+            &::-webkit-scrollbar-thumb:hover {
+                background:transparent; 
+            }
+            scrollbar-color: #584931 transparent;
+            scrollbar-base-color: transparent;
+            scrollbar-face-color: transparent;
+            scrollbar-3dlight-color: transparent;
+            scrollbar-highlight-color: transparent;
+            scrollbar-track-color: transparent;
+            scrollbar-arrow-color: transparent;
+            scrollbar-shadow-color: transparent;
+            scrollbar-dark-shadow-color: transparent;
+
+            .player-card-container {
+                width: 400px;
+                display: inline-block;
+                .name {
+                    font-size: 1.25rem;
+                    bottom: 8rem !important;
+                }
+            }
+
+            .actions {
+                position: relative;
+            }
+
+        }
+    
+    }
+
+    .player-cards {
+        width: 100%;
+        .player-card {
+            max-height: none;
+        }
+    }
+
+}
+
+.shop-item-modal {
+
+    --background: transparent;
+    --width: 900px !important;
+    --height: 78vh !important;
+    .ion-page {
+        border: 4px solid #976b38ba;
+    }
+    ion-header {
+        --background-color: transparent;
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);
+    }
+    ion-toolbar {
+        --background: transparent;
+    }
+    ion-content {
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);
+    }
+    ion-footer {
+        --background-color: transparent;
+        --background: transparent;
+        background: rgba(18,12,6,1);
+        background: radial-gradient(circle, rgba(48,38,27,1) 0%, rgba(18,12,6,1) 100%);    
+        padding: 0.5rem;
+    }
+
+    .charity {
+        ion-icon {
+            width: 70px;
+            height: 70px;
+        }
+    }
+
+}
+
+.sticky-stop-item {
+    position: sticky;
+    top: 1rem;
+    left: 0px;
+}

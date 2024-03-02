@@ -1,0 +1,219 @@
+[
+    {
+        "version": "v2024.9.2",
+        "date": "2024-03-02",
+        "notes": [
+            "Shop - In game assets made available for purchase.",
+            "Shop - Token Swapping Supported by 0x Swap API.",
+            "Misc - Various fixes and improvements."
+        ]
+    },
+    {
+        "version": "v2024.9.1",
+        "date": "2024-02-26",
+        "notes": [
+            "Gameplay - New demo mode added. Allows the user to play without connecting a wallet.",
+            "Gameplay - Refined token selection modal. Not sure if I love it just yet, but this is good.",
+            "Gameplay - Improved how damage and healing is displayed when hovering over an ability during battle.",
+            "Gameplay - The words 'Your Turn' now appear when it's your turn to play.",
+            "Gameplay - Removed the room identifier from the URL to avoid 404 refresh issues."
+        ]
+    },
+    {
+        "version": "v2024.6.1",
+        "date": "2024-02-07",
+        "notes": [
+            "Gameplay - New level backdrop: Macaron Atmosphere!",
+            "Gameplay - New level backdrop: Space Colosseum!",
+            "Gameplay - New level backdrop: Moth Monument!",
+            "Gameplay - New level backdrop: Macaron Arctic!",
+            "Collection - Minor visual adjustments and improvements."
+        ]
+    },
+    {
+        "version": "v2024.5.1",
+        "date": "2024-02-01",
+        "notes": [
+            "Gameplay - UI Fixes and Minor Adjustments."
+        ]
+    },
+    {
+        "version": "v2024.4.7",
+        "date": "2024-01-27",
+        "notes": [
+            "Gameplay - UI Fixes and Minor Adjustments."
+        ]
+    },
+    {
+        "version": "v2024.4.6",
+        "date": "2024-01-26",
+        "notes": [
+            "Gameplay - Music and Sound FX player fixes."
+        ]
+    },
+    {
+        "version": "v2024.4.5",
+        "date": "2024-01-25",
+        "notes": [
+            "Gameplay - Single Player Mode Improvements.",
+            "Gameplay - Background Effect Improvements."
+        ]
+    },
+    {
+        "version": "v2024.4.4",
+        "date": "2024-01-24",
+        "notes": [
+            "Gameplay - Single Player Mode Added.",
+            "Colyseus - Various Gameplay Logic Improvements."
+        ]
+    },
+    {
+        "version": "v2024.4.3",
+        "date": "2024-01-23",
+        "notes": [
+            "Gameplay - Auto play music when starting a new battle.",
+            "Collections - View your collection of gladiators in a new panel.",
+            "Collections - If you don't have any Muffins or Moths, an OpenSea link will be displayed in the collection screen."
+        ]
+    },
+    {
+        "version": "v2024.4.2",
+        "date": "2024-01-23",
+        "notes": [
+            "Game Analytics Setup"
+        ]
+    },
+    {
+        "version": "v2024.4.1",
+        "date": "2024-01-22",
+        "notes": [
+            "Gameplay - Death animation."
+        ]
+    },
+    {
+        "version": "v2024.3.3",
+        "date": "2024-01-15",
+        "notes": [
+            "User Interface - Minor adjustments and fixes.",
+            "Gameplay - Minor bug fixes and adjustments."
+        ]
+    },
+    {
+        "version": "v2024.2.8",
+        "date": "2024-01-14",
+        "notes": [
+            "Lobby - Join button fixes."
+        ]
+    },
+    {
+        "version": "v2024.2.7",
+        "date": "2024-01-14",
+        "notes": [
+            "Settings - Panel will auto close if you click outside of it."
+        ]
+    },
+    {
+        "version": "v2024.2.6",
+        "date": "2024-01-14",
+        "notes": [
+            "Leaderboard - New View! Leaderboard now shows the top 3 players.",
+            "User Interface - Minor adjustments and fixes."
+        ]
+    },
+    {
+        "version": "v2024.2.5",
+        "date": "2024-01-12",
+        "notes": [
+            "Gameplay Music - Music player fixes and adjustments."
+        ]
+    },
+    {
+        "version": "v2024.2.4",
+        "date": "2024-01-11",
+        "notes": [
+            "Gameplay Music - Four new music tracks added.",
+            "Gameplay Sound FX - Updated sound effects for all abilities.",
+            "Optimization - Music and Sound FX now load on demand from a CDN"
+        ]
+    },
+    {
+        "version": "v2024.2.3",
+        "date": "2024-01-10",
+        "notes": [
+            "Gameplay - New Background Added: Planet Macaron Snow",
+            "Gameplay - New Background Added: Sacred Moth Starship Palace"
+        ]
+    },
+    {
+        "version": "v2024.2.2",
+        "date": "2024-01-09",
+        "notes": [
+            "Gameplay - Sound effect added for Crumble Cure ability.",
+            "Gameplay - Sound effect added for Stardust Revive ability.",
+            "Gameplay - Sound effect added for Nebula Pulse ability.",
+            "Gameplay - Sound effect added for Hyperdrive Flare ability."
+        ]
+    },
+    {
+        "version": "v2024.1.1",
+        "date": "2024-01-07",
+        "notes": [
+            "Gameplay - Schema Updates."
+        ]
+    },
+    {
+        "version": "v2023.51.1",
+        "date": "2023-12-20",
+        "notes": [
+            "Gameplay - Colyseus Framework Syncing Improvements.",
+            "Gameplay - New Sacred Moth Ability: Nebula Pulse.",
+            "Gladiator - UI Adjustments and Fixes."
+        ]
+    },
+    {
+        "version": "v2023.50.1",
+        "date": "2023-12-15",
+        "notes": [
+            "Gameplay - Colyseus Framework Integration."
+        ]
+    },
+    {
+        "version": "v2023.44.12",
+        "date": "2023-11-04",
+        "notes": [
+            "Gameplay - Hyperdrive Flare and Butter Blast Ability FX improvements.",
+            "Gladiator - Minor Bug Fixes."
+        ]
+    },
+    {
+        "version": "v2023.44.11",
+        "date": "2023-11-03",
+        "notes": [
+            "Gameplay - Turn timer increased to 30 seconds.",
+            "Gameplay - Battle FX fixes when playing with multiple collections."
+        ]
+    },
+    {
+        "version": "v2023.44.9",
+        "date": "2023-11-02",
+        "notes": [
+            "Game - Deployment Fixes, Tweaks, and Adjustments."
+        ]
+    },
+    {
+        "version": "v2023.44.8",
+        "date": "2023-11-02",
+        "notes": [
+            "Sound - Music volume control fixes.",
+            "Settings - Autosave added.",
+            "Release Notes - Modal added."
+        ]
+    },
+    {
+        "version": "v2023.44.7",
+        "date": "2023-11-01",
+        "notes": [
+            "Gladiator goes online!"
+        ]
+    }
+]

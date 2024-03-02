@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Crash Metal Drop 3",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Crash%20Metal%20Drop%203%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "muffin melee (original)",
+        "soundsLike": "knocked over garbage cans"
+    },
+    {
+        "title": "Earthquake Explosion 6",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Earthquake%20Explosion%206%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "crumble cure",
+        "soundsLike": "earthquake rocks"
+    },
+    {
+        "title": "Electrical Shock 1",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Electrical%20Shock%201%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "electronaut",
+        "soundsLike": "electrical shock, loud"
+    },
+    {
+        "title": "Energy Blasts",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Energy%20Blasts%20-%20SFX%20Producer.mp3",
+        "collection": "sacred-moths",
+        "ability": "hyperdrive flare",
+        "soundsLike": "laser, energy, slashes"
+    },
+    {
+        "title": "Energy Blasts 10",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Energy%20Blasts%2010%20-%20SFX%20Producer.mp3",
+        "collection": "sacred-moths",
+        "ability": "hyperdrive flare",
+        "soundsLike": "laser, energy, slashes (loud)"
+    },
+    {
+        "title": "Force Field Impact 1",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Force%20Field%20Impact%201%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "muffin melee",
+        "soundsLike": "force field, impact or (punch)"
+    },
+    {
+        "title": "Laser Burst Descend 1",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Laser%20Burst%20Descend%201%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "cosmic laser",
+        "soundsLike": "laser shooting"
+    },
+    {
+        "title": "Liquid Gulp 4",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Liquid%20Gulp%204%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "butter blast",
+        "soundsLike": "liquid gulp, kinda gross"
+    }, 
+    {
+        "title": "Mop Floor 2",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Mop%20Floor%202%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "butter blast",
+        "soundsLike": "mop floor, kinda gross"
+    },
+    {
+        "title": "PREL Electrical 18",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_PREL%20Electrical%2018%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "electronaut",
+        "soundsLike": "electrical shock vibrate, loud"
+    },
+    {
+        "title": "PREL Electrical 25",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_PREL%20Electrical%2025%20-%20SFX%20Producer.mp3",
+        "collection": "sacred-moths",
+        "ability": "nebula pulse",
+        "soundsLike": "electrical shock / pops"
+    },
+    {
+        "title": "PREL Laser 2",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_PREL%20Laser%202%20-%20SFX%20Producer.mp3",
+        "collection": "sacred-moths",
+        "ability": "cosmic laser, hollow sounding"
+    },
+    {
+        "title": "Pool Indoor Splash 2",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Pool%20Indoor%20Splash%202%20-%20SFX%20Producer.mp3",
+        "collection": "cosmic-muffins",
+        "ability": "butter blast",
+        "soundsLike": "pool indoor splash"
+    },
+    {
+        "title": "Stretcher Raise Wheels",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Stretcher%20Raise%20Wheels%20-%20SFX%20Producer.mp3",
+        "collection": "gladiator",
+        "ability": "turn change",
+        "soundsLike": "stretcher raise wheels (electronic)"
+    }, 
+    {
+        "title": "Tonal Impact",
+        "url": "https://brokenreality-gladiator.nyc3.cdn.digitaloceanspaces.com/sfx/ES_Tonal%20Impact%20-%20SFX%20Producer.mp3",
+        "collection": "sacred-moths",
+        "ability": "stardust revive",
+        "soundsLike": "laser charge"
+    }
+]

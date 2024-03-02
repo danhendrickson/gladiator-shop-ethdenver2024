@@ -1,0 +1,7 @@
+{
+  "name": "Gladiator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
